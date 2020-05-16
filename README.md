@@ -3,7 +3,7 @@
 **Project name:**  
 Kenshi Chinese localization  
 **Project purpose:**  
-Localization Kenshi the game.  
+Localize Kenshi the game in Chinese.  
 **Project start time:**  
 3/2/2020 (First upload on 5/16/2020)  
 **Project progress:**  
